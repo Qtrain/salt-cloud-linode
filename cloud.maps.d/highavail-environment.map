@@ -1,0 +1,27 @@
+gluster1:
+   - gluster1
+
+gluster2:
+   - gluster2
+
+gluster3:
+   - gluster3
+
+galera1:
+   - galera1 
+
+galera2:
+   - galera2 
+
+galera3:
+   - galera3 
+
+nginx1:
+   - nginx1 
+
+nginx2:
+   - nginx2 
+
+nginx3:
+   - nginx3
+

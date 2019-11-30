@@ -1,0 +1,20 @@
+env-london:
+  - london
+
+env-dallas:
+  - dallas
+
+env-singapore:
+  - singapore
+
+env-atlanta:
+  - atlanta
+
+env-fremont:
+  - fremont
+
+env-frankfurt:
+  - frankfurt
+
+env-newark:
+  - newark

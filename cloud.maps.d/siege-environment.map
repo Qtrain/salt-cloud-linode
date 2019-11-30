@@ -1,0 +1,36 @@
+env-atlanta-siege:
+  - atlanta-siege
+
+env-atlanta-siege-2:
+  - atlanta-siege-2
+
+env-atlanta-siege-3:
+  - atlanta-siege-3
+
+env-dallas-siege:
+  - dallas-siege
+
+env-dallas-siege-2:
+  - dallas-siege-2
+
+env-dallas-siege-3:
+  - dallas-siege-3
+
+env-fremont-siege:
+  - fremont-siege
+
+env-fremont-siege-2:
+  - fremont-siege-2
+
+env-fremont-siege-3:
+  - fremont-siege-3
+
+env-newark-siege:
+  - newark-siege
+
+env-newark-siege-2:
+  - newark-siege-2
+  
+env-newark-siege-3:
+  - newark-siege-3
+

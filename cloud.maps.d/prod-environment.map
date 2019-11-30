@@ -1,0 +1,11 @@
+prod-web:
+  - prod-www1
+  - prod-www2
+
+prod-db:
+  - prod-db1
+  - prod-db2
+
+prod-lb:
+  - prod-lb1
+  - prod-lb2

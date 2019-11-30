@@ -1,0 +1,11 @@
+stage-web:
+  - stage-www1
+  - stage-www2
+
+stage-db:
+  - stage-db1
+  - stage-db2
+
+stage-lb:
+  - stage-lb
+
